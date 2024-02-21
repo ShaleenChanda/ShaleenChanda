@@ -20,7 +20,7 @@
 ###
 
 <div align="left">
-    <a href="https://www.linkedin.com/in/haseebkhalid1507/" target="_blank">
+    <a href="https://www.linkedin.com/in/shaleen-chanda/" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
     </a>
   </a>
@@ -35,16 +35,7 @@
 
 <br clear="both">
 
-<table border="0">
-  <tr>
-    <td valign="top" align="center" width="50%">
-        <p>📘 Currently delving into the world of Go programming.<br>☁️ Exploring the fascinating realm of Cloud Security.<br>📚 Learning Solidity for blockchain development.<br><br>In my free time, you'll find me engaged in various activities:<br><br>♟️ Playing chess to sharpen my strategic thinking.<br>🏴‍☠️ Participating in Capture The Flag (CTF) challenges for <br>hands-on cybersecurity experience.<br>🎵 Producing music as a creative outlet.</p>
-    </td>
-    <td valign="top" align="center" width="50%">
-        <img style="max-width: 100%; height: auto;" src="https://media.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif" />
-    </td>
-  </tr>
-</table>
+Incoming soon.....
 
 ###
 
