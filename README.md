@@ -13,10 +13,8 @@ My journey in the tech industry is driven by my desire to stay on the cutting ed
 ###
 
 <div align="center">
-  <img height="400" src="https://giphy.com/gifs/trans-transgender-pride-VPpkvgTIJ817dfQOXI" />
+    <img height="400" src="https://media.giphy.com/media/VPpkvgTIJ817dfQOXI/giphy.gif" />
 </div>
-
-<div style="width:100%"><div style="height:0;padding-bottom:56.25%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/FvlKuPjwWNpPDHvG2B/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div></div>
 ###
 
 <div align="left">
