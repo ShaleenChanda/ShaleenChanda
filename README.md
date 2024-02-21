@@ -36,11 +36,11 @@
 <br clear="both">
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-    <div>
+    <div style="flex: 1; margin-right: 20px;">
         <p>📘 Currently delving into the world of Go programming.<br>☁️ Exploring the fascinating realm of Cloud Security.<br>📚 Learning Solidity for blockchain development.<br><br>In my free time, you'll find me engaged in various activities:<br><br>♟️ Playing chess to sharpen my strategic thinking.<br>🏴‍☠️ Participating in Capture The Flag (CTF) challenges for <br>hands-on cybersecurity experience.<br>🎵 Producing music as a creative outlet.</p>
     </div>
-    <div>
-        <img height="400" src="https://media.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif" />
+    <div style="flex: 1;">
+        <img style="max-width: 100%; height: auto;" src="https://media.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif" />
     </div>
 </div>
 
