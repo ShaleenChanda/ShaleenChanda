@@ -6,7 +6,7 @@
 
 
 <p align="center">
-I am a Software Developer and Problem Solver with a Bachelor's degree from IIT Guwahati. My expertise lies in architecture design and competitive coding. Driven by a passion for exploration and innovation, I thrive on staying at the forefront of technology and continuous improvement.
+I am a Software Developer and Problem Solver with a Bachelor's degree from IIT Guwahati. My interest lies in architecture design, algorithm design and competitive programming. Driven by a passion for exploration and innovation, I thrive on staying at the forefront of technology and continuous improvement.
 </p>
 
 
