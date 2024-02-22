@@ -60,6 +60,7 @@ Coming soon.....
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="64" alt="cpp logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original-wordmark.svg" height="64" alt="rabbitMQ logo" />
+<br />
 
   <!-- Web Development -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64" alt="javascript logo"  />
