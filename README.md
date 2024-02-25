@@ -107,3 +107,10 @@ Excitedly, I am contemplating the development of a small caching application tai
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="64" alt="mysql logo"  />
   <br />
 </div>
+
+
+###
+
+<h2 align="left">:fire: My Stats :</h2>
+
+###
