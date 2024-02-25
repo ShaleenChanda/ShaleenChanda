@@ -35,7 +35,19 @@ I am a Software Developer and a Problem Solver with a Bachelor's degree from IIT
 
 <br clear="both">
 
-Coming soon.....
+I am a Bachelor's graduate from the prestigious Indian Institute of Technology Guwahati, majoring in Engineering Physics. Avid problem solver with a passion for competitive programming and crafting high-performance code.
+
+🚀 Current Focus
+
+Currently, I specialize in writing high-performance code using Go, alongside leveraging Python, Terraform, Docker, and Bash to automate intricate tasks efficiently.
+
+💡 Interests
+
+Beyond coding, I find joy in bodybuilding and weightlifting, channeling my determination both physically and mentally. During my leisure time, I delve into exploring new technologies and trends shaping our world.
+
+🌟 Upcoming Project
+
+Excitedly, I am contemplating the development of a small caching application tailored for personal use within my web applications.
 
 ###
 
