@@ -114,3 +114,8 @@ Excitedly, I am contemplating the development of a small caching application tai
 <h2 align="left">:fire: My Stats :</h2>
 
 ###
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShaleenChanda&theme=shadow-purple&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaleenChanda)](https://github.com/ShaleenChanda/github-readme-stats)
