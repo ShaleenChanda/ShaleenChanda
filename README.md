@@ -111,7 +111,7 @@ Excitedly, I am contemplating the development of a small caching application tai
 
 ###
 
-<h2 align="left">:fire: My Stats :</h2>
+<h2 align="left"> My Stats :</h2>
 
 ###
 
